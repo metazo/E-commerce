@@ -239,7 +239,7 @@ img {
 }
 
 .banniere-contenu .gauche {
-    margin-top: -5rem;
+    margin-top: 5rem;
 }
 
 .banniere-contenu .gauche .sous-titre {
@@ -259,3 +259,24 @@ img {
 .banniere-contenu .gauche .couleur {
     color: #007bc4;
 }
+
+.banniere-contenu .gauche h5 {
+    font-weight: 400;
+    margin-top: 2rem;
+}
+
+.btn {
+    display: inline-block;
+    border-radius: 5rem;
+    background-color: #007bc4;
+    padding:1.3rem 5rem;
+    color: #ffffff;
+    font-weight: 600;
+    box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.3);
+    margin-top: 4rem;
+}
+
+.banniere-contenu .droite {
+    margin-top: 5rem;
+}
+
